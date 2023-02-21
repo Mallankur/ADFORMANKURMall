@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj": {}
+    "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj": {
+    "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
+        "projectUniqueName": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
         "projectName": "AdformAPI",
-        "projectPath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
+        "projectPath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
         "packagesPath": "C:\\Users\\a.mall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\obj\\",
+        "outputPath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.mall\\AppData\\Roaming\\NuGet\\NuGet.Config",
