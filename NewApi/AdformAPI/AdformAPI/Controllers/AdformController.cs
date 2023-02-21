@@ -19,6 +19,10 @@ namespace AdformAPI.Controllers
             _logger = logger?? throw new ArgumentNullException(nameof(logger)); 
             
         }
+        /// <summary>
+        /// Get the data in Database 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<AdformProduct>), ((int)HttpStatusCode.OK))]
 
@@ -32,7 +36,11 @@ namespace AdformAPI.Controllers
 
             return Ok(product); 
         }
-
+        /// <summary>
+        /// Post the data in database 
+        /// </summary>
+        /// <param name="product"></param>
+        /// <returns></returns>
         [HttpPost]
         [ProducesResponseType(typeof(AdformProduct), ((int)HttpStatusCode.OK))]
 
