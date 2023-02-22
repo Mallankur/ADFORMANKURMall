@@ -1,4 +1,4 @@
-﻿namespace AdformAPI.Entites
+﻿namespace AdformAPI.Data
 {
     public class ConfiurationwithDatabase
     {
