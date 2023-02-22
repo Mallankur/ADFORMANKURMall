@@ -1,5 +1,4 @@
 using AdformAPI.Data;
-using AdformAPI.Entites;
 using AdformAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);

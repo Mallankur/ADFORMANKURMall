@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "El/ReyVAXGty4KMoknXDG4U/oMUh+VW43f2NNTIAWmvUk+cmZKPEAWb2rU5SzuMmBarGIvAjbEsNzXpPtby3Ig==",
+  "dgSpecHash": "KUZeKPU6N5mjmluYvTG/IKkaLyTfLJlIns8pgXpqxn90rcn4I60oh2aHeAvEdcWns+eJjvMGNNFcF0RBI3rnhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
+  "projectFilePath": "C:\\Users\\a.mall\\OneDrive - Adform\\Desktop\\Restful_Api\\ADFORMANKURMall\\NewApi\\AdformAPI\\AdformAPI\\AdformAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.mall\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\a.mall\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
